@@ -27,7 +27,7 @@ Usa `studente/setup/profilo.md` per il profilo minimo, `studente/setup/fonti.md`
 }
 ```
 
-Registra l'anno solo se indicato o confermato. I passi possono essere `pending`, `complete` o `skipped`; lo stato globale è `complete` quando nessuno è `pending`. Salva le informazioni e lo stato dopo ogni passo. Se lo stato è completo non ripetere il setup; se è in corso riprendi ciò che serve. Se non è leggibile o ha una versione sconosciuta, non sovrascriverlo. Un passo completato non garantisce che i dati o gli strumenti siano ancora validi.
+Registra l'anno solo se indicato o confermato. I passi possono essere `pending`, `complete` o `skipped`; lo stato globale è `complete` quando nessuno è `pending`. Salva le informazioni e lo stato dopo ogni passo. Se lo stato è completo non ripetere il setup; se è in corso riprendi ciò che serve. Se non è leggibile o ha una versione sconosciuta, non sovrascriverlo. Per `fonti`, `complete` significa che lo studente ha concluso per ora la scelta delle altre fonti, non che tutti i libri siano stati aggiunti: potrà aggiungerne altri. Registrare il solo registro non completa automaticamente questo passo. Un passo completato non garantisce che i dati o gli strumenti siano ancora validi.
 
 ## Procedura
 
