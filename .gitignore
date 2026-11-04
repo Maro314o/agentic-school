@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+credentials.txt
+**/credentials.txt
+local-data/
+private-data/
+**/private-data/
+/test-path
+# I PDF sono materiali personali e restano locali.
+*.pdf
+*.PDF
+
+# Configurazione e materiali dello studente
+/studente/

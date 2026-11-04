@@ -1,0 +1,3 @@
+interface:
+  display_name: "Indicizzare PDF scolastici"
+  short_description: "Crea indici navigabili per libri PDF e dispense."
