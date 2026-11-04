@@ -35,7 +35,7 @@ Le skill condivise appartengono a `.agents/skills/`, quelle personali a `student
 - Conserva i PDF e i materiali personali o con autorizzazione alla condivisione incerta dentro `studente/`; riusa quelli già presenti senza duplicarli o spostarli automaticamente. I PDF sono esclusi da Git; non scaricare raccolte intere in anticipo.
 - Per un libro o PDF lungo usa `$indicizzare-pdf` per creare o aggiornare una mappa di navigazione; per materiali brevi descrivi la raccolta nel suo indice senza imporre un indice per ogni file. Nelle richieste successive consulta l'indice pertinente e le pagine utili.
 - Mantieni versione, fonte e licenza dichiarata per ogni libro o materiale; non riutilizzare l'indice di un'edizione diversa.
-- L'indice deve riportare i numeri stampati e quelli fisici del PDF quando differiscono, con corrispondenza verificata.
+- Per un libro usato in consegne con pagine stampate, prepara una mappa che aiuti a trovare le pagine nel file digitale, con corrispondenze verificate; indica chiaramente parti non mappate o incerte. L'indice degli argomenti e la mappa delle pagine rispondono a esigenze distinte.
 - Consulta `studente/setup/fonti.md` per le fonti scelte dallo studente e le relative procedure personali. Gli inventari del registro personale restano sotto `studente/`.
 
 ## Dati e Git
