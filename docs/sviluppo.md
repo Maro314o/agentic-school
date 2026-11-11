@@ -16,4 +16,4 @@ Il percorso della configurazione reale è facoltativo e personale. Chi sviluppa 
 
 La configurazione reale contiene dati personali: leggili solo quanto necessario, non copiarli nei risultati condivisi e non modificarli durante i test senza richiesta o autorizzazione. Per prove che scrivono, usa dati fittizi o una copia isolata. Non pubblicare credenziali, materiali personali o risultati che li contengono.
 
-Controlla lo stato e il diff Git prima di un commit; annota quali scenari sono stati verificati e gli eventuali limiti.
+Tieni traccia delle modifiche con commit Git: prima di un commit controlla stato e diff, verifica che i file siano destinati alla condivisione e annota gli scenari provati e gli eventuali limiti. Se esiste il file locale `.pubblicazione-locale.md`, consulta anche le preferenze di pubblicazione del proprietario.

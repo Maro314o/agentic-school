@@ -13,3 +13,6 @@ private-data/
 
 # Configurazione e materiali dello studente
 /studente/
+
+# Preferenze personali di pubblicazione
+/.pubblicazione-locale.md
