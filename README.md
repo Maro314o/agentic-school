@@ -46,6 +46,8 @@ README.md
       SKILL.md
     preparare-dispensa-studio/
       SKILL.md
+    compilare-moduli/
+      SKILL.md
 studente/                  # locale, esclusa da Git
   setup/                       # profilo, stato e fonti dello studente
   orario-<classe>/             # orario e fonte
@@ -53,7 +55,7 @@ studente/                  # locale, esclusa da Git
   skills/                      # procedure personali facoltative
 ```
 
-Le procedure comuni sono [`setup-studente`](.agents/skills/setup-studente/SKILL.md) per la configurazione iniziale, [`aggiungere-fonte`](.agents/skills/aggiungere-fonte/SKILL.md) per configurare una fonte e [`indicizzare-pdf`](.agents/skills/indicizzare-pdf/SKILL.md) per indicizzare un PDF quando serve e [`preparare-dispensa-studio`](.agents/skills/preparare-dispensa-studio/SKILL.md) per una dispensa PDF prima di una verifica.
+Le procedure comuni sono [`setup-studente`](.agents/skills/setup-studente/SKILL.md) per la configurazione iniziale, [`aggiungere-fonte`](.agents/skills/aggiungere-fonte/SKILL.md) per configurare una fonte e [`indicizzare-pdf`](.agents/skills/indicizzare-pdf/SKILL.md) per indicizzare un PDF quando serve e [`preparare-dispensa-studio`](.agents/skills/preparare-dispensa-studio/SKILL.md) per una dispensa PDF prima di una verifica e [`compilare-moduli`](.agents/skills/compilare-moduli/SKILL.md) per compilare documenti scolastici.
 
 ## Integrazioni
 
